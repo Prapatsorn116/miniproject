@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Christian Dior Miss Dior Cherie L'eau EDT",
+    "stock": 10,
+    "imageUrl": "https://image.makewebcdn.com/makeweb/m_1920x0/2q1fSqVKm/1product/0260.jpg?v=202405291424",
+    "price": "1280",
+    "productcode": "0021"
+  },
+  {
+    "name": "Roses De Chloe EDT",
+    "stock": 15,
+    "imageUrl": "https://files.vogue.co.th/uploads/2_Chloe_-_The_10_Best_Perfume_for_Women.jpg",
+    "price": "3850",
+    "productcode": "0027"
+  },
+  {
+    "name": "Wood Sage & Sea Salt Cologne",
+    "stock": 12,
+    "imageUrl": "https://files.vogue.co.th/uploads/3_Jo_Malone_-_The_10_Best_Perfume_for_Women.jpg",
+    "price": "3950",
+    "productcode": "0019"
+  },
+   {
+    "name": "Coco Mademoiselle",
+    "stock": 9,
+    "imageUrl": "https://files.vogue.co.th/uploads/4_Chanel_-_The_10_Best_Perfume_for_Women.jpg",
+    "price": "3750",
+    "productcode": "0025"
+  },
+  {
+    "name": "Flower By Kenzo Eau De Parfum",
+    "stock": 8,
+    "imageUrl": "https://files.vogue.co.th/uploads/5_Kenzo_-_The_10_Best_Perfume_for_Women.jpg",
+    "price": "3600",
+    "productcode": "0013"
+  },
+  {
+    "name": "Daisy Eau So Fresh EDT",
+    "stock": 14,
+    "imageUrl": "https://files.vogue.co.th/uploads/6_Marc_Jacobs_-_The_10_Best_Perfume_for_Women.jpg",
+    "price": "4000",
+    "productcode": "0021"
+  },
+  {
+    "name": "Brit Sheer For Her Eau De Toilette",
+    "stock": 2,
+    "imageUrl": "https://files.vogue.co.th/uploads/7_Burberry_-_The_10_Best_Perfume_for_Women.jpg",
+    "price": "3300",
+    "productcode": "0016"
+  },
+ {
+    "name": "Bright Crystal Eau De Toilette",
+    "stock": 11,
+    "imageUrl": "https://files.vogue.co.th/uploads/8_Vesace_-_The_10_Best_Perfume_for_Women.jpg",
+    "price": "4200",
+    "productcode": "0014"
+  },
+   {
+    "name": "Omnia Amethyste Eau De Toilette",
+    "stock": 7,
+    "imageUrl": "https://files.vogue.co.th/uploads/9_BVLGARI_-_The_10_Best_Perfume_for_Women.jpg",
+    "price": "3350",
+    "productcode": "0022"
+  },
+   {
+    "name": "Bombshell Eau De Toilette",
+    "stock": 13,
+    "imageUrl": "https://files.vogue.co.th/uploads/10_Victoria_s_Secret_-_The_10_Best_Perfume_for_Women.jpg",
+    "price": "3950",
+    "productcode": "0011"
+  }
+]
